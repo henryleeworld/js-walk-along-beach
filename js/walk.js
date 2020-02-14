@@ -1,5 +1,3 @@
-// Animation created for Skillshare class on Animating SVG https://skl.sh/2SgBfAR
-
 // Beach Ball
 TweenMax.to("#ball-group", 30, {x:-1700, repeat:-1, ease: Power0.easeNone, repeatDelay:10})
 TweenMax.to("#ball", 30, {rotation:"-4000deg", repeat:-1, transformOrigin: "center center",  ease: Power0.easeNone, repeatDelay:10})
